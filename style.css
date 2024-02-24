@@ -1,0 +1,20 @@
+/* open sans font */
+*{
+    font-family: "Lato", sans-serif;
+    font-family: "Open Sans", sans-serif;
+   
+}
+
+/* nav related style */
+ nav{
+    display: flex;
+ }
+
+ nav > li {
+    list-style: none;
+    margin-right: 50px;
+ }
+
+ nav > li a{
+    text-decoration: none;
+ }
